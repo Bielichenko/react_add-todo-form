@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,eACF,CAEA,gBACE,SACF","file":"main.4a3f8d0f.chunk.css","sourcesContent":[".App {\n  text-align: left;\n}\n\n.Validation-err {\n  color: red;\n}\n"]}
